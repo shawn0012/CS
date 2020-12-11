@@ -12,3 +12,5 @@
 
 ## 2 Algorithms
 [《算法设计手册(英文版)》](https://drive.google.com/file/d/1Ev_aPYI9YTMaaRWvzX6N5aLPsv3duaSd/view?usp=sharing)
+[《数据结构与算法分析》](https://drive.google.com/file/d/1NtH_IE7DwLj86wAVakN8bpspDSSVStJu/view?usp=sharing)
+
