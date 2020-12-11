@@ -1,6 +1,6 @@
 # Teach myself for being a algorithm engineer
-##Programming language
-###Python
+## Programming language
+### Python
 git checkout -b progress
 
 git remote add jwasham https://github.com/jwasham/coding-interview-university
@@ -13,4 +13,4 @@ git commit -m "Marked x"
 git rebase jwasham/master
 
 git push --force
-[]check this out
+[] check this out
