@@ -11,3 +11,4 @@
 ### 1.3 Java
 
 ## 2 Algorithms
+[《算法设计手册(英文版)》](https://drive.google.com/file/d/1Ev_aPYI9YTMaaRWvzX6N5aLPsv3duaSd/view?usp=sharing)
