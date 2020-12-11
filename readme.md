@@ -13,5 +13,4 @@ git commit -m "Marked x"
 git rebase jwasham/master
 
 git push --force
-
- - [] check this out
+- [ ] check this out
