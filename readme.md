@@ -17,4 +17,4 @@
 
 ## 3 Machine Learning
 
-[吴恩达 MachineLearning](https://github.com/shawn0012/Coursera-ML-AndrewNg-Notes)
+[吴恩达 MachineLearning 免费资源可下载](https://github.com/shawn0012/Coursera-ML-AndrewNg-Notes)
