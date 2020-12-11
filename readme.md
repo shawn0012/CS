@@ -18,3 +18,7 @@
 ## 3 Machine Learning
 
 [吴恩达 MachineLearning 免费资源可下载](https://github.com/shawn0012/Coursera-ML-AndrewNg-Notes)
+
+## 4 Computer Networking
+
+[《计算机网络》](https://drive.google.com/file/d/1TetpuqSNBVbZgX9yxDwcYV43Njv6aaB0/view?usp=sharing)
