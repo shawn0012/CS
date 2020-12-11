@@ -15,3 +15,6 @@
 
 [《数据结构与算法分析》](https://drive.google.com/file/d/1NtH_IE7DwLj86wAVakN8bpspDSSVStJu/view?usp=sharing)
 
+## 3 Machine Learning
+
+[吴恩达 MachineLearning](https://github.com/shawn0012/Coursera-ML-AndrewNg-Notes)
