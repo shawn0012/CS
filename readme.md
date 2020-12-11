@@ -1,4 +1,6 @@
-# Teach myself
+# Teach myself for being a algorithm engineer
+##Programming language
+###Python
 git checkout -b progress
 
 git remote add jwasham https://github.com/jwasham/coding-interview-university
