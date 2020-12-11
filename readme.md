@@ -7,8 +7,8 @@
 - [ ] [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB&index=24&t=6622s)
 
 - [ ] [Python Algorithms for Interviews](https://www.youtube.com/watch?v=p65AHm9MX80&list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB&index=7&t=81s)
-~~### 1.2 C++~~
-~~### 1.3 Java~~
+### ~~1.2 C++~~
+### ~~1.3 Java~~
 
 ## 2 Algorithms
 [《算法设计手册(英文版)》](https://drive.google.com/file/d/1Ev_aPYI9YTMaaRWvzX6N5aLPsv3duaSd/view?usp=sharing)
