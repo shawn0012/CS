@@ -25,5 +25,5 @@
 
 ### Die Internet-Protokollwelt
     -1.Einleitung
-    [Slides](Die InternetProtokollwelt/V01-Einleitung.pdf)
+        [Slides](CS/Die InternetProtokollwelt/V01-Einleitung.pdf)
     -2.IP
