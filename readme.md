@@ -28,7 +28,7 @@
         [Slides](CS/Die InternetProtokollwelt/V01-Einleitung.pdf)
     -2.IP
     
-### Computer nerwork
+### Computer network
     -1.VoIP protocol:SIP,H.323.
         [slides]()
     -Bluetooth 
