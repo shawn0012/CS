@@ -32,4 +32,5 @@
     -1.VoIP protocol:SIP,H.323.
         [slides]()
     -Bluetooth 
+        FHSS(Frequency Hopping Spread Spectrum)
     -Socket
